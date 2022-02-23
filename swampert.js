@@ -1,1 +1,1 @@
-tipo agua
+tipo agua/tierra
